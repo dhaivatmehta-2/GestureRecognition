@@ -311,15 +311,15 @@ while True:
 
 
 
-            #this is for pixel distance
+           
 
 
 
 
-            #this is for straight line
+          
             fingers()
 
-            #trial for distance
+            
 
 
     cTime = time.time()
