@@ -9,3 +9,5 @@ We all use hand gestures, using a laptop/pc cam, my project can recognize differ
 • incase the camera doesnt work, change the following line of code in main.py- 0 to 1
 
 • cap = cv2.VideoCapture(0)
+
+• some part of code is commented out as i am planning to use this project as a foundation for another future project
